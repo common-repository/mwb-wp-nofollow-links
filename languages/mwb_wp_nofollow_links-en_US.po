@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mwb_wp_nofollow_links\n"
+"POT-Creation-Date: 2018-09-20 11:15+0530\n"
+"PO-Revision-Date: 2018-09-20 13:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: makewebbetter <webmaster@makewebbetter.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/wordpress/wp-content/plugins/"
+"mwb_wp_nofollow_links\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mwb_wp_nofollow.php:67
+msgid "Settings"
+msgstr ""
+
+#: admin/class-mwb_wp_nofollow-admin.php:111
+msgid "Add attributes to tags"
+msgstr ""
+
+#: admin/class-mwb_wp_nofollow-admin.php:111
+#: admin/partials/mwb_wp_nofollow-admin-display.php:40
+msgid "Wordpress nofollow Links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:46
+msgid "Settings saved"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:54
+msgid "Add or Remove alt to image"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:56
+msgid ""
+"This setting can be used to add image alt attribute by enabling the checkbox "
+"and remove image alt attribute by disabling the checkbox"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:62
+msgid "Add rel=nofollow to external links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:65
+msgid ""
+"This setting can be used to add the rel=nofollow attribute to the external "
+"links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:70
+msgid "Add rel=nofollow to all links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:73
+msgid ""
+"This setting can be used to add the rel=nofollow attribute to all the links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:78
+msgid "Remove rel=nofollow from all links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:81
+msgid ""
+"This setting can be used to remove the rel=nofollow attribute from all the "
+"links"
+msgstr ""
+
+#: admin/partials/mwb_wp_nofollow-admin-display.php:85
+msgid "save settings"
+msgstr ""

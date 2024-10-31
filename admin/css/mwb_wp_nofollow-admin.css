@@ -1,0 +1,26 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .mwb_wp_nofollow_form_class
+ {
+ 	border: 1px solid #ccc;
+ 	margin: 20px;
+ 	padding: 20px;
+ 	background-color: white;
+ 	border: 2px solid grey;
+ }
+.mwb_wp_nofollow_heading
+{
+	padding-top: 10px;
+	padding-left: 15px;
+}
+
+@media only screen and (max-width:462px) {
+ 	
+ 	.mwb_wp_nofollow_heading
+    {
+ 	font-size:16px;
+    }
+ }
